@@ -20,3 +20,8 @@ Keypair : Proceed witout keypair
 
 
 <img width="1115" height="407" alt="Screenshot 2026-01-28 at 11 36 57 am" src="https://github.com/user-attachments/assets/8759a5f6-958a-42f1-b05d-c89417d05901" />
+
+Opening ports for jenkins and sonarqube : 8080 & 9000
+
+
+<img width="1111" height="685" alt="Screenshot 2026-01-28 at 11 40 38 am" src="https://github.com/user-attachments/assets/c1c71f52-ef48-4e98-b535-6a04f825f439" />
